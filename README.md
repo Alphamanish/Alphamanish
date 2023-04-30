@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Alphamanish
+- 👋 Hi, I’m Manish, Product Designer
 - 👀 I’m interested in Frontend development 
-- 🌱 I’m currently learning Product Design
 - 💞️ I’m looking to collaborate on Design/Development projects
 - 📫 iamyadavmanish111@gmail.com
 
